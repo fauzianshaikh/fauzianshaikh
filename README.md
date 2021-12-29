@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **fauziashaikh2601@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15a-zj1AE-eeWMa6ikNQ5Mj0ArHQPczk5/view?usp=sharing](https://drive.google.com/file/d/15a-zj1AE-eeWMa6ikNQ5Mj0ArHQPczk5/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15a-zj1AE-eeWMa6ikNQ5Mj0ArHQPczk5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
