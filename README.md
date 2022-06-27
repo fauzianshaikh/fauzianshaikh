@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Some innovation and creative DevOps project**
 
-- 👨‍💻 All of my projects are available at [fauziashaikh.netlify.com](fauziashaikh.netlify.com)
+- 👨‍💻 All of my projects are available at [Profile](https://fauzianshaikh.github.io/Fauzia_Portfolio/#home)
 
 - 💬 Ask me about **DevOps, GCP, Kubernetes, Docker, CI/CD, Jenkins**
 
