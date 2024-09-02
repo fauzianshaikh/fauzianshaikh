@@ -4,7 +4,7 @@
 <hr>  
 
 <h1 align="center">Hi 👋, I'm Fauzia Naushad Shaikh</h1>
-<h3 align="center">5 years of experience as a DevOps Engineer with a demonstrated history of working in the software industry. Skilled in Google Cloud Platform(Kubernetes), Continuous Integration and Continuous Delivery (CI/CD), Apache Kafka, Jenkins, Git, Bitbucket, Grafana, Terraform. Having a firm hold on the Cloud technologies. Strong engineering professional with a Bachelor of Technology focused in Computer Science and Engineering from Maulana Azad National Institute of Technology.</h3>
+<h3 align="center">5+ years of experience as a Site Reliability Engineer / DevOps Engineer with a demonstrated history of working in the software industry. Skilled in Google Cloud Platform(Kubernetes), Continuous Integration and Continuous Delivery (CI/CD), Apache Kafka, Jenkins, Git, Bitbucket, Grafana, Terraform. Having a firm hold on the Cloud technologies. Strong engineering professional with a Bachelor of Technology focused in Computer Science and Engineering from Maulana Azad National Institute of Technology.</h3>
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1a0nMdF_MYj_3Y11c6ctLpXqa7TP7yt8H/view?usp=sharing)
 
